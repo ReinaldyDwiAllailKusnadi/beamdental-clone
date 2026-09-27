@@ -1,0 +1,32 @@
+[
+  {
+    "id": "apt-1",
+    "name": "Budi Santoso",
+    "whatsapp": "081234567890",
+    "email": "budi.santoso@gmail.com",
+    "complaint": "Konsultasi behel dan pembersihan karang gigi anak",
+    "service": "Ortodontis & Gigi Anak",
+    "date": "2026-09-27",
+    "status": "Pending"
+  },
+  {
+    "id": "apt-2",
+    "name": "Siti Rahmawati",
+    "whatsapp": "081987654321",
+    "email": "siti.rahma@yahoo.com",
+    "complaint": "Pemeriksaan gigi geraham berlubang dan penambalan",
+    "service": "Konservasi Gigi",
+    "date": "2026-09-26",
+    "status": "Dihubungi"
+  },
+  {
+    "id": "apt-3",
+    "name": "Hendro Wijaya",
+    "whatsapp": "085712349876",
+    "email": "hendro.w@gmail.com",
+    "complaint": "Tanya estimasi biaya implan gigi satu rahang",
+    "service": "Implan Gigi",
+    "date": "2026-09-25",
+    "status": "Selesai"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "hero-1",
+    "title": "Basic Treatment",
+    "subtitle": "Mulai dari scaling, tambal gigi, cabut gigi, hingga pemeriksaan rutin.",
+    "image": "/downloaded/1_5.png",
+    "imageMobile": "/downloaded/1-1_6.png",
+    "badge": "Basic Treatment",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "hero-2",
+    "title": "Layanan Perawatan Gigi Anak",
+    "subtitle": "Dengan pendekatan ramah anak dan dokter gigi anak berpengalaman.",
+    "image": "/downloaded/2_8.png",
+    "imageMobile": "/downloaded/2-1_7.png",
+    "badge": "Pediatric Dentistry",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "hero-3",
+    "title": "Kembalikan Senyum Percaya Diri dengan Implan Gigi",
+    "subtitle": "Solusi implan gigi yang direncanakan secara menyeluruh oleh tim spesialis.",
+    "image": "/downloaded/3_10.png",
+    "imageMobile": "/downloaded/3-1_9.png",
+    "badge": "Dental Implant",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "hero-4",
+    "title": "Syaraf Gigi - Perawatan Saluran Akar",
+    "subtitle": "Solusi untuk mengatasi nyeri dan menyelamatkan gigi asli Anda.",
+    "image": "/downloaded/4_12.png",
+    "imageMobile": "/downloaded/4-1_11.png",
+    "badge": "Endodontics",
+    "order": 4,
+    "active": true
+  },
+  {
+    "id": "hero-5",
+    "title": "Senyum yang Lebih Cerah, Rapi, dan Percaya Diri",
+    "subtitle": "Berbagai perawatan estetik gigi mulai dari whitening, veneer, hingga smile makeover.",
+    "image": "/downloaded/5_14.png",
+    "imageMobile": "/downloaded/5-1_13.png",
+    "badge": "Estetika Gigi",
+    "order": 5,
+    "active": true
+  }
+]

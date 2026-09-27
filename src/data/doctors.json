@@ -1,0 +1,130 @@
+[
+  {
+    "id": "doc-1",
+    "name": "drg. Priska Angelia, Sp.KGA",
+    "specialty": "Pediatric Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/Drg-Priska-NEWWWWWW_15.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-2",
+    "name": "drg. Kelvin Suryawan, Cert. Implant",
+    "specialty": "Conservative Dentistry",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/Drg_-Kelvin-new_16.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-3",
+    "name": "drg. Kharlina Syafitri M.Si., Sp.Ort",
+    "specialty": "Orthodontist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/Drg_-Karlina-new_17.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-4",
+    "name": "drg. Daisy Supandi, Sp. Pros",
+    "specialty": "Prosthodontist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/Drg_-Disyi-new_18.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-5",
+    "name": "drg. Intan, Sp.KGA",
+    "specialty": "Pediatric Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/drg_-intan-Sp_KGA-new_19.jpg",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-6",
+    "name": "drg. Djoni Kosim Sindudibroto, Sp. Perio",
+    "specialty": "Periodontist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-7",
+    "name": "drg. Muhammad Adityo Imam, Sp.BMM",
+    "specialty": "Maxillofacial Surgeon",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-8",
+    "name": "drg. Adrianus Rajasa, Sp.PM",
+    "specialty": "Oral Medicine",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-9",
+    "name": "drg. Cindy Fransisca Gunawan",
+    "specialty": "General Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-10",
+    "name": "drg. Yosaphat Tedja Kusuma",
+    "specialty": "General Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-11",
+    "name": "drg. Cynthia Agustina Chandra",
+    "specialty": "General Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-12",
+    "name": "drg. Melissa Hartono",
+    "specialty": "General Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-13",
+    "name": "drg. Melissa Angela, Sp.KGA",
+    "specialty": "Pediatric Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-14",
+    "name": "drg. Stefani, Sp.KGA",
+    "specialty": "Pediatric Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-15",
+    "name": "drg. Maria Fransiska, Sp.Ort",
+    "specialty": "Orthodontist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  },
+  {
+    "id": "doc-16",
+    "name": "drg. Fransiska Maria, Sp.KGA",
+    "specialty": "Pediatric Dentist",
+    "schedule": "Sesuai janji temu",
+    "image": "/downloaded/dokter-kami_Blank-Docter_13.png",
+    "status": "Aktif"
+  }
+]

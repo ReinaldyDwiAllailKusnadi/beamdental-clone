@@ -1,0 +1,58 @@
+[
+  {
+    "id": "svc-1",
+    "title": "Basic Treatment",
+    "category": "Umum",
+    "description": "Pemeriksaan dan perawatan gigi sehari-hari",
+    "image": "/downloaded/General-treatment_22.png",
+    "order": 1
+  },
+  {
+    "id": "svc-2",
+    "title": "Endodontic",
+    "category": "Umum",
+    "description": "Solusi untuk infeksi dan saraf gigi",
+    "image": "/downloaded/Endodontics_23.png",
+    "order": 2
+  },
+  {
+    "id": "svc-3",
+    "title": "Pediatric Dentistry",
+    "category": "Umum",
+    "description": "Perawatan gigi nyaman untuk anak-anak",
+    "image": "/downloaded/gigi-anak_24.png",
+    "order": 3
+  },
+  {
+    "id": "svc-4",
+    "title": "Oral Medicine",
+    "category": "Umum",
+    "description": "Diagnosis dan penanganan kelainan rongga mulut",
+    "image": "/downloaded/Oral-medicine_25.png",
+    "order": 4
+  },
+  {
+    "id": "svc-5",
+    "title": "Orthodontics",
+    "category": "Umum",
+    "description": "Merapikan susunan gigi untuk senyum ideal",
+    "image": "/downloaded/ortodontis_26.png",
+    "order": 5
+  },
+  {
+    "id": "svc-6",
+    "title": "Oral &amp; Maxillofacial Surgery",
+    "category": "Umum",
+    "description": "Penanganan bedah gigi dan rahang",
+    "image": "/downloaded/Maxilofacial-surgery_27.png",
+    "order": 6
+  },
+  {
+    "id": "svc-7",
+    "title": "Prosthodontic",
+    "category": "Umum",
+    "description": "Mengembalikan fungsi dan estetika gigi",
+    "image": "/downloaded/Prosthodontics_28.png",
+    "order": 7
+  }
+]
